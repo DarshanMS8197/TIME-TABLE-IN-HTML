@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>TIME TABLE</title>
+</head>
+<body>
+<table border="2" bgcolor="pink" cellspacing=5 cellpadding=10>               <!--attribute-->
+<caption><h2><b><u>TIME TABLE</u></b></h2></caption>
+<tr>
+<th>SR.NO</th>
+<th>DAY</th>
+<th>1st period<br/>8:45-9:45</th>
+<th>2nd period<br/>9:40-10:30</th>
+<th>TEA<BR/>10:30-10:40</TH>
+<th>3rd period<br/>10:40-11:30</th>
+<th>4th period<br/>11:35-12:25</th>
+<th>LUNCH<br/>12:25-1:05</th>
+<th>5th period<br/>1:5-1:55</th>
+<th>6th period<br/>2:00-2:50</th>
+<th>TEA<BR/>2:50-3:00</th>
+<th>7th period<br/>3:00-3:50</th>
+<th>8th period<br/>3:55-4:45</th>
+</tr>
+<tr>
+<td><center>1</center></td>
+<td>SUNDAY</td>
+<td colspan="11"><center>HOLIDAY</center></td>
+</tr>
+<tr>
+<td><center>2</center></td>
+<td>MONDAY</td>
+<td>CSE2011</td>
+<td>LIBRARY</td>
+<td rowspan="4"><center>TEA</center><br/><center>BREAK</center></td>
+<td>MAT2004</td>
+<td>CSE2027</td>
+<td rowspan="4"><center>LUNCH</center><br/><center>BREAK</center></td>
+<td colspan="2"><center>CSE2067</center></td>
+<td rowspan="4"><center>TEA</center><br/><center>BREAK</center></td>
+<td>CSE2074</td>
+<td>SPORTS</td>
+</tr>
+<tr>
+<td><center>3</center></td>
+<td>TUESDAY</td>
+<td>MAT2004</td>
+<td>CSE2066</td>
+<td>CSE2009</td>
+<td>CSE2011</td>
+<td>CSE2074</td>
+<td>LIBRARY</td>
+<td>CSE2066</td>
+<td>CSE2027</td>
+</tr>
+<tr>
+<td><center>4</center></td>
+<td>WEDNESDAY</td>
+<td>CSE2009</td>
+<td>CCH</td>
+<td colspan="2"><center>CSE2074</center></td>
+<td>CSE2027</td>
+<td>CSE2067</td>
+<td colspan="2"><center>FREE</center></td>
+</tr>
+<tr>
+<td><center>5</center></td>
+<td>THURESDAY</td>
+<td>CSE2067</td>
+<td>CSE2009</td>
+<td>CSE2011</td>
+<td>CSE2066</td>
+<td>MAT2004</td>
+<td>LIBRARY</td>
+<td COLSPAN="2"><center>PPS2001</center></td>
+</tr>
+<tr>
+<td><center>6</center></td>
+<td>FRIDAY</td>
+<td colspan="11"><center>HOLIDAY</center></td>
+</tr>
+<tr>
+<td><center>7</center></td>
+<td>SATURDAY</td>
+<td colspan="11"><center>HOLIDAY</center></td>
+</tr>
+ 
+</table>
+<hr/>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>LISTS</title>
+</head>
+<body>
+<UL type="square"> 
+<h2><u>Unordered list</u></h2>                                                    <!--UL-->
+<LI>HELLO WORLD </LI>
+<LI>I AM ROBOT</LI>
+<LI>ID-20211CSD0043</LI>
+</UL>
+<OL type="i">
+<h2><u>Ordered list</u></h2>                                                          <!--OL-->
+<LI>HELLO WORLD </LI>
+<LI>I AM ROBOT</LI>
+<LI>ID-20211CSD0043</LI>
+</OL>
+<DL> 
+<h2><u>Definition list</u></h2>                                                                  <!--DL-->
+<DT>What is your name?</DT>
+<DD>My name is DARSHAN M S</DD>
+<DT>Where are you from?</DT>
+<DD>I am from Bangalore</DD>
+</DL>
+<hr/>
+<p><u><b><h2>Subject Studied</h2></b></u></p>
+<ol>
+<li><h2>Semester 1 Subject</h2>
+<ul>
+<li>java
+<li>maths
+</ul>
+<li><h2>Semester 2 Subject</h2>
+<ul>
+<li>Web Teachnology
+<li>Physics
+</ul>
+</ol>
+<hr/>
+</body>
+</html>
